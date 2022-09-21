@@ -28,4 +28,3 @@ Astro Kod: https://github.com/orgs/astrokod/repositories
 
 - V3D (Vector 3D) https://github.com/mshemuni/V3D
 - Teach others https://github.com/mshemuni/mshemuni.github.io
-- sole (Speed Of Light Emulator) https://github.com/mshemuni/sole
